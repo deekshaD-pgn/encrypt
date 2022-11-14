@@ -32,3 +32,4 @@ try:
 
 finally:
 	chat_socket.close()
+	
